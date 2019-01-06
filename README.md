@@ -16,7 +16,7 @@ Python, HTML, CSS e Javascript
 webbrowser, os e re
 
 #### Como rodar o código
-1) Faça o download dos arquivos 
+1) Faça o download dos arquivos .py
 2) Mantenha os arquivos na mesma pasta
 3) Abra o terminal
 4) Caso seja necessário, instale as bibliotecas citadas acimas
