@@ -12,7 +12,7 @@ O objetivo é criar um site que reúna os meus filmes favoritos e, a partir dele
 #### Linguagens 
 Python, HTML, CSS e Javascript
 
-#### Biblitecas 
+#### Bibliotecas 
 webbrowser, os e re
 
 #### Como rodar o código
